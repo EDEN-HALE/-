@@ -1,4 +1,4 @@
-// Задание 2
+
 class Animal {
     #name;
     #age;
