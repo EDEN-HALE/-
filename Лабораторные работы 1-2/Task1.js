@@ -6,5 +6,4 @@ function revrseList(arr){
     return newArr;
 }
 
-
 console.log(revrseList([1, 2, 3, 4, 5]))
